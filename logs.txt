@@ -1,0 +1,9 @@
+07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message
+07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message
+07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message
+07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message_neww
+08-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message_news
+sddsd
+sdsddsd 
+dfd ffef 
+08-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message_news

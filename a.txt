@@ -1,0 +1,192 @@
+{
+    "@timestamp"[0;37m => [0m2022-01-07T10:37:07.778Z,
+         "level"[0;37m => [0m[0;33m"INFO"[0m,
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m,
+        "msgLog"[0;37m => [0m[0;33m"some message_neww"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message_neww"[0m
+    },
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m
+}
+{
+    "@timestamp"[0;37m => [0m2022-01-07T10:37:07.778Z,
+         "level"[0;37m => [0m[0;33m"INFO"[0m,
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m,
+        "msgLog"[0;37m => [0m[0;33m"some message"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message"[0m
+    },
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m
+}
+{
+    "@timestamp"[0;37m => [0m2022-01-07T10:37:07.778Z,
+         "level"[0;37m => [0m[0;33m"INFO"[0m,
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m,
+        "msgLog"[0;37m => [0m[0;33m"some message"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message"[0m
+    },
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m
+}
+{
+    "@timestamp"[0;37m => [0m2022-01-07T10:37:07.778Z,
+         "level"[0;37m => [0m[0;33m"INFO"[0m,
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m,
+        "msgLog"[0;37m => [0m[0;33m"some message"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message"[0m
+    },
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m
+}
+{
+    "@timestamp"[0;37m => [0m2022-01-08T10:37:07.778Z,
+         "level"[0;37m => [0m[0;33m"INFO"[0m,
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m,
+        "msgLog"[0;37m => [0m[0;33m"some message_news"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"08-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message_news"[0m
+    },
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m
+}
+{
+    "@timestamp"[0;37m => [0m2022-01-08T10:37:07.778Z,
+         "level"[0;37m => [0m[0;33m"INFO"[0m,
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m,
+        "msgLog"[0;37m => [0m[0;33m"some message_news"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"08-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message_news"[0m
+    },
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m
+}
+{
+    "@timestamp"[0;37m => [0m2022-01-07T10:37:07.778Z,
+          "note"[0;37m => [0m[0;33m"some message"[0m,
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m,
+         "alert"[0;37m => [0m[0;33m"INFO"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message"[0m
+    },
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m
+}
+{
+    "@timestamp"[0;37m => [0m2022-01-07T10:37:07.778Z,
+          "note"[0;37m => [0m[0;33m"some message_neww"[0m,
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m,
+         "alert"[0;37m => [0m[0;33m"INFO"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message_neww"[0m
+    },
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m
+}
+{
+    "@timestamp"[0;37m => [0m2022-01-07T10:37:07.778Z,
+          "note"[0;37m => [0m[0;33m"some message"[0m,
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m,
+         "alert"[0;37m => [0m[0;33m"INFO"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message"[0m
+    },
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m
+}
+{
+    "@timestamp"[0;37m => [0m2022-01-08T10:37:07.778Z,
+          "note"[0;37m => [0m[0;33m"some message_news"[0m,
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m,
+         "alert"[0;37m => [0m[0;33m"INFO"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"08-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message_news"[0m
+    },
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m
+}
+{
+    "@timestamp"[0;37m => [0m2022-01-08T10:37:07.778Z,
+          "note"[0;37m => [0m[0;33m"some message_news"[0m,
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m,
+         "alert"[0;37m => [0m[0;33m"INFO"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"08-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message_news"[0m
+    },
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m
+}
+{
+    "@timestamp"[0;37m => [0m2022-01-07T10:37:07.778Z,
+          "note"[0;37m => [0m[0;33m"some message"[0m,
+      "@version"[0;37m => [0m[0;33m"1"[0m,
+        "method"[0;37m => [0m[0;33m"com.ag.cd"[0m,
+         "alert"[0;37m => [0m[0;33m"INFO"[0m,
+         "event"[0;37m => [0m{
+        "original"[0;37m => [0m[0;33m"07-07-2022 16:7:07.778 [ignore] [ignore] [consider] INFO com.ag.cd - some message"[0m
+    },
+           "log"[0;37m => [0m{
+        "file"[0;37m => [0m{
+            "path"[0;37m => [0m[0;33m"/Users/rohitnaikkundaikar/Desktop/elk/logs.txt"[0m
+        }
+    },
+         "class"[0;37m => [0m[0;33m"consider"[0m
+}
